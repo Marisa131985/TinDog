@@ -1,2 +1,1 @@
-# TinDog
-Dogs Social Network
+TinDog Starting Files
